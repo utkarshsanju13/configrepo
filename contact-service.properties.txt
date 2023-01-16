@@ -1,0 +1,1 @@
+my.check = check string from contact service
